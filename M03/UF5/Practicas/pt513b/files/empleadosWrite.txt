@@ -1,0 +1,3 @@
+Marc; 634534567; 21; false; 1905.25; Calle Mineria; 08038; 37;
+Ariadna; 737345355; 19; false; 1205.25; Carrer Corcega; 08650; 55;
+Freddy; 634534366; 33; true; 1512.25; Carrer del Bages ; 08900; 11;

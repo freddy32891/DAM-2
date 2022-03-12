@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<realestate name="immobiliria2020">
+    <estate type="House">
+        <id>1111</id>
+        <surface>200</surface>
+        <condition>medium</condition>
+        <certificate>true</certificate>
+        <adress>
+            <city>Barcelona</city>
+            <street>De los Robles</street>
+            <number>134</number>
+            <zipcode>08908</zipcode>
+        </adress>
+        <price>300000</price>
+    </estate>
+    <estate type="House">
+        <id>2222</id>
+        <surface>320</surface>
+        <condition>high</condition>
+        <certificate>false</certificate>
+        <adress>
+            <city>Badalona</city>
+            <street>La Mancha</street>
+            <number>65</number>
+            <zipcode>08903</zipcode>
+        </adress>
+        <price>1000000</price>
+    </estate>
+    <estate type="Premise">
+        <id>4324</id>
+        <surface>342</surface>
+        <condition>high</condition>
+        <certificate>true</certificate>
+        <adress>
+            <city>Barcelona</city>
+            <street>Calle inventada</street>
+            <number>43</number>
+            <zipcode>08403</zipcode>
+        </adress>
+        <price>21321</price>
+    </estate>
+    <estate type="House">
+        <id>3244</id>
+        <surface>210</surface>
+        <condition>low</condition>
+        <certificate>true</certificate>
+        <adress>
+            <city>Badalona</city>
+            <street>La Mancha</street>
+            <number>65</number>
+            <zipcode>08903</zipcode>
+        </adress>
+        <price>1000000</price>
+    </estate>
+</realestate>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Result_Activity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_appleResult"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MANZANAS: 0 EUROS"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/tv_appleResult2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PLATANOS: 0 EUROS"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/tv_appleResult3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PERAS: 0 EUROS"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <TextView
+            android:id="@+id/tv_appleResult4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TOTAL: 0 EUROS"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+</LinearLayout>

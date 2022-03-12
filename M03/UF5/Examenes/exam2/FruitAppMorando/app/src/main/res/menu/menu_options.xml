@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/it_fondo"
+        android:title="Color de fondo" />
+    <item
+        android:id="@+id/it_guardarPref"
+        android:title="Guardar preferencias" />
+    <item
+        android:id="@+id/it_cargarPref"
+        android:title="Cargar Preferencias" />
+    <item
+        android:id="@+id/it_info"
+        android:title="Informacion" />
+    <item
+        android:id="@+id/it_salir"
+        android:title="Salir" />
+</menu>

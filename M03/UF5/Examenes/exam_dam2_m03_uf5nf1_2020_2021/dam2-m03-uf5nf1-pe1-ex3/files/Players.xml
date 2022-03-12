@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players>
+    <player id="FR">
+        <name>Freddy</name> 
+        <level>1</level>  
+        <statistics>9.8</statistics> 
+    </player>
+    <player id="MA">
+        <name>Marcos</name> 
+        <level>1</level>  
+        <statistics>3.5</statistics> 
+    </player>
+    <player id="PO">
+        <name>Pol</name> 
+        <level>2</level>  
+        <statistics>5.8</statistics> 
+    </player>
+    <player id="PE">
+        <name>Pepe</name> 
+        <level>2</level>  
+        <statistics>9.1</statistics> 
+    </player>
+    <player id="PE">
+        <name>Pedro</name> 
+        <level>1</level>  
+        <statistics>4.5</statistics> 
+    </player>
+    
+</players>
